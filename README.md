@@ -1,4 +1,4 @@
-## Hi there,  My name is Morris.
+## Hi dear,  My name is Morris.
 
 A software engineer who focusses on helping organisations improve the world through the use of software engineering technologies.
 
